@@ -1,4 +1,4 @@
-# dice-css
+# Dice.css
 
 Demo & Docs: https://diafygi.github.io/dice-css/
 
